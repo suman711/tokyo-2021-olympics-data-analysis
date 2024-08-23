@@ -71,4 +71,4 @@ You can also use PowerBI to generate your analysis reports.
  <img src="Data Reporting/Data-visualisation.png">
 
 Refer to the SQL scripts used for data analysis 
-[Tokyo Olympics SQL script.sql](https://github.com/zBalachandar/Tokyo-Olympic-Data-Analytics-Azure-End-To-End-Data-Engineering-Project.-/blob/main/Sql%20query/SQL%20script%201.sql)
+[Tokyo Olympics SQL script.sql](https://github.com/suman711/tokyo-2021-olympics-data-analytics/blob/main/SQL%20Query/SQL%20script%201.sql)
