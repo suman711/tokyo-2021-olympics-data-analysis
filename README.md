@@ -1,4 +1,4 @@
-# Tokyo Olympics Data Analytics | Azure End-To-End Data Engineering Project -12
+# Tokyo 2021 Olympics Data Analytics
 
 
 ## Description
